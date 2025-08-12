@@ -1,0 +1,9 @@
+[submodule "modem-extras/luci-app-3ginfo-lite"]
+	path = modem-extras/luci-app-3ginfo-lite
+	url = git@github.com:4IceG/luci-app-3ginfo-lite.git
+[submodule "modem-extras/luci-app-lite-watchdog"]
+	path = modem-extras/luci-app-lite-watchdog
+	url = git@github.com:arichiardi/luci-app-lite-watchdog.git
+[submodule "modem-extras/luci-app-atcommands"]
+	path = modem-extras/luci-app-atcommands
+	url = git@github.com:arichiardi/luci-app-atcommands.git
